@@ -1,0 +1,3 @@
+﻿using LoginSystemGP;
+
+new StartUp();
